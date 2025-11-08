@@ -1,0 +1,7 @@
+numpy
+opencv-python
+Pillow
+tqdm
+albumentations
+scikit-learn
+PyYAML
